@@ -7,3 +7,5 @@ void main(){
         printf("\n Enter element %d : ",i+1);
     }
     }
+
+// edittttttttttttt;LASJBF;aljsbf;KDSJBF;kjdsfb
